@@ -1,0 +1,24 @@
+.date-div{
+    width: 300px;
+    border-radius: 3px;
+}
+.date-bar{
+    width: 200px;
+    height: 48px;
+    border:rgb(194, 187, 187) 1.5px solid;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
+}
+.button-div{
+    padding: 10px;
+    text-align: center;
+    margin-left: 2.3rem;
+}
+.button{
+    width: 200px;
+}

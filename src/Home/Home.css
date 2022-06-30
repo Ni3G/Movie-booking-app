@@ -1,0 +1,25 @@
+.image{
+    width: 14rem;
+    height: 19rem;
+    padding: 10px;
+    border-radius: 1rem;
+    transition: transform 0.5s;
+}
+.image:hover{
+    transform: scale(1.1);
+    scroll-behavior: smooth;
+}
+.container{
+    display: flex;
+    overflow-x: auto;
+    padding: 10px;
+    overflow-y: hidden;
+}
+h3{
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.movie-div{
+        background-color: gray;
+}
